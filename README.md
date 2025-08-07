@@ -1,4 +1,3 @@
-
 <h1>Employee Management System</h1>
 The Employee Management System is a comprehensive web-based application designed to streamline the process of managing employee records and departmental details within an organization. Built with ASP.NET Core MVC, this project leverages the Entity Framework Core for ORM, ensuring a robust and scalable solution for businesses of all sizes.
 
@@ -16,15 +15,18 @@ LINQ: To query the database in an expressive way directly from C#.
 SQL Server: As the backend database to store employee and department information.
 Bootstrap: For styling and creating a responsive design.
 jQuery: To enhance user interactions and provide a dynamic frontend experience.
+
 <h2>Getting Started</h2>
 <h3>Prerequisites</h3>
-.NET 5.0 SDK or later
-Visual Studio 2019 or later
-SQL Server 2019 or later
+.NET SDK
+
+Visual Studio 2025 or later
+SQL Server 2025 or later
+
 <h3>Installation</h3>
 Clone the repository:
 
-git clone https://github.com/karanJ2212/employeeCRUD.git
+git clone(https://github.com/kanakrajtomar/Employee-Management.git)
 Open the solution file (EmployeeManagementSystem.sln) in Visual Studio.
 Restore the NuGet packages by right-clicking on the solution and selecting "Restore NuGet Packages".
 Set up the database by applying Entity Framework migrations:
@@ -40,17 +42,8 @@ Create your Feature Branch (git checkout -b feature/AmazingFeature)
 Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
+
 License
 Distributed under the MIT License. See LICENSE for more information.
-
-## 🤝 Contributing <a name="contributing"></a>
-
-
-👤 **Karan Jain**
-
-- GitHub: [@Karan](https://github.com/karanj2212)
-- Twitter: [@Karan](https://twitter.com/karanjain2212)
-
-Project Link:https://github.com/karanJ2212/employeeCRUD.git
 
 Feel free to modify the contact information and project link according to your project's actual details.
